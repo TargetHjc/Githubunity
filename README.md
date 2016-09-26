@@ -6,3 +6,6 @@
 this is   ignore project
 this CJJ
 >>>>>>> origin/master
+sssss
+sss
+ss
